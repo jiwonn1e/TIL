@@ -14,3 +14,5 @@ git remote -v
 (보기 : git log)
 3. git push origin master
 100% 나오면 완료 된것
+
+[여태한거링크](https://www.notion.so/hphk/Git-22-03-28-22-03-30-6-2157d9f961584680aa29fa19f9b5a68e)
