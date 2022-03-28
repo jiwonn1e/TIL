@@ -9,8 +9,8 @@ git remote add origin 원격저장소주소
 git remote -v
 
 3. 업로드
-git add 파일명
-git commit -m "이유"
-git log
-git push origin master
+1. git add 파일명
+2. git commit -m "이유"
+(보기 : git log)
+3. git push origin master
 100% 나오면 완료 된것
